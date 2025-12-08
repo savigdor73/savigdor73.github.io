@@ -11,7 +11,7 @@ content:
     path: _posts            # התיקייה שבה ג'קיל מחפש את הפוסטים
     
     # תבנית שם הקובץ - קריטי לג'קיל! חייב להתחיל בתאריך
-    filename: "{year}-{month}-{day}-{slug}.md"
+    filename: "{year}-{month}-{day}.md"
     
     # פורמט הקובץ - ג'קיל עובד עם Frontmatter (ההגדרות בראש הקובץ)
     format: frontmatter 
